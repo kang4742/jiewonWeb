@@ -1,0 +1,11 @@
+  
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("노트북", "computer", 200, "삼성", 20, "가볍고 튼튼")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("TV", "household", 300, "LG", 30, "슬림형")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("데스크탑", "computer", 400, "삼성", 40, "그래픽 좋은")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("운동화", "goods", 10, "아디다스", 300, "가볍고 편한")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("구두", "goods", 20, "아디다스", 200, "가볍고 편한")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("아이폰", "elec", 120, "애플", 150, "카메라 좋은")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("아이패드", "elec", 170, "애플", 200, "가볍고 좋은")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("전자레인지", "household", 200, "LG", 400, "고장나지 않는")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("에어컨", "elec", 350, "삼성", 20, "시원한")
+insert into products(name, category, price, manufacturer, unit_in_stock, description) values ("게이밍노트북", "computer", 370, "삼성", 50, "가볍고 성능 좋은")

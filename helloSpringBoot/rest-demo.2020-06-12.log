@@ -1,0 +1,97 @@
+00:19:48.503 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 15200 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+00:19:48.518 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+00:19:48.518 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+00:20:00.143 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 12.624 seconds (JVM running for 13.724) 
+00:34:08.510 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 3508 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+00:34:08.515 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+00:34:08.517 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+00:34:19.603 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 11.915 seconds (JVM running for 12.876) 
+00:47:19.694 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 17284 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+00:47:19.697 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+00:47:19.698 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+00:47:31.439 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 12.435 seconds (JVM running for 13.317) 
+00:50:17.287 [http-nio-8080-exec-10] INFO  k.a.h.cse.controller.HomeController - info level : welcome home! The client locale is ko_KR 
+00:50:17.289 [http-nio-8080-exec-10] INFO  k.a.h.cse.controller.HomeController - Request URL : http://localhost:8080/eStore/, Client IP : 0:0:0:0:0:0:0:1 
+00:52:22.349 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 14700 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+00:52:22.353 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+00:52:22.354 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+00:52:56.893 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 2908 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+00:52:56.901 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+00:52:56.902 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+00:53:43.469 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 3224 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+00:53:43.479 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+00:53:43.482 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+00:53:54.218 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 11.745 seconds (JVM running for 13.087) 
+01:53:50.741 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 6304 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+01:53:50.745 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+01:53:50.746 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+01:54:02.052 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 12.355 seconds (JVM running for 14.233) 
+01:55:15.887 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 16852 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+01:55:15.894 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+01:55:15.895 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+01:55:26.067 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.953 seconds (JVM running for 11.817) 
+01:56:36.659 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 12836 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+01:56:36.665 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+01:56:36.666 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+01:56:48.123 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 12.227 seconds (JVM running for 13.161) 
+02:00:46.737 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 21172 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:00:46.742 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:00:46.743 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:00:56.755 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.776 seconds (JVM running for 12.208) 
+02:03:48.686 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 13352 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:03:48.692 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:03:48.693 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:03:58.023 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.243 seconds (JVM running for 11.876) 
+02:04:51.930 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 2180 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:04:51.934 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:04:51.935 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:05:01.927 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.704 seconds (JVM running for 12.181) 
+02:09:52.448 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 1856 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:09:52.452 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:09:52.453 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:10:01.871 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.165 seconds (JVM running for 11.128) 
+02:10:31.608 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 5880 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:10:31.612 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:10:31.613 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:10:43.056 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 12.162 seconds (JVM running for 13.634) 
+02:12:06.136 [http-nio-8080-exec-4] INFO  k.a.h.cse.controller.HomeController - Info: Calling home( ) 
+02:12:06.142 [http-nio-8080-exec-4] DEBUG k.a.h.cse.controller.HomeController - Debug: Calling home( ) 
+02:12:32.245 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 12096 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:12:32.251 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:12:32.252 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:12:46.197 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 15.019 seconds (JVM running for 16.194) 
+02:16:00.475 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 19644 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:16:00.481 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:16:00.482 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:16:10.992 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 11.524 seconds (JVM running for 13.287) 
+02:25:23.739 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 5992 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:25:23.750 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:25:23.752 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:25:33.598 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.812 seconds (JVM running for 12.383) 
+02:29:29.459 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 17568 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:29:29.482 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:29:29.483 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:29:42.320 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 13.678 seconds (JVM running for 14.913) 
+02:32:10.389 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 19120 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:32:10.392 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:32:10.393 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:32:19.823 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.154 seconds (JVM running for 11.096) 
+02:41:31.138 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 22224 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:41:31.142 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:41:31.142 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:41:41.365 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.884 seconds (JVM running for 11.809) 
+02:47:22.605 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 23536 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+02:47:22.608 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+02:47:22.609 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+02:47:32.274 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.309 seconds (JVM running for 11.438) 
+21:25:56.142 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 16456 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+21:25:56.147 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+21:25:56.148 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+21:26:19.933 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 8968 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+21:26:19.936 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+21:26:19.937 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+21:26:29.399 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 10.218 seconds (JVM running for 11.32) 
+21:29:17.248 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on DESKTOP-6T08OGN with PID 24396 (C:\dev\workspace\helloSpringBoot\target\classes started by jiewo in C:\dev\workspace\helloSpringBoot) 
+21:29:17.255 [main] DEBUG k.a.h.c.HelloSpringBootApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE 
+21:29:17.256 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+21:29:29.966 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 13.539 seconds (JVM running for 14.731) 
