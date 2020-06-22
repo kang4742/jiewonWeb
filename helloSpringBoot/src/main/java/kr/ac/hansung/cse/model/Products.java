@@ -18,7 +18,7 @@ import lombok.ToString;
 @Setter
 @ToString
 @NoArgsConstructor
-@Table(name = "product") //테이블 이름
+@Table(name = "product_table") //테이블 이름
 public class Products implements Serializable {
 
 	/**
